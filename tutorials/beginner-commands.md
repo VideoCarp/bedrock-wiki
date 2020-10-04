@@ -18,12 +18,8 @@ parent: Tutorials
 
 
 
-# Command Tutorial
-##### Written by VideoCarp<br>
-
-<div align="center">
-      <img src="https://img.shields.io/badge/6%20minutes%2058%20seconds-estimated%20read%20time-green">
-</div>
+# Beginning
+Written by VideoCarp<br>
 
 Firstly, since you're new I recommend **reading to full**.<br>
 <br>
@@ -62,11 +58,7 @@ Water isn't fixed to it's position, is it an entity? No, the reason for that is 
 **All mobs, but not only mobs** are entities.
 Below is an example of an entity.<br>
 
-<span align="center">
-
 ![chicken.png](https://i.ibb.co/DGbPNgQ/Webp-net-resizeimage.png)<br>
-
-</span>
 
 <br>
 <br>
@@ -194,10 +186,9 @@ For example, a file named `cool_file.mcfunction` will execute if you return the 
 Now for the folder setup.<br>
 <br>
 Bedrock Edition:
-<span style="color: #ff0000"></span>
 
-> `(your pack name)`:open_file_folder:<br>
-> > `(functions)`:open_file_folder:, [`<manifest.json>`📄](https://wiki.bedrock.dev/guide/manifest-function-extension.html#manifests) , `<pack_icon.png>`📄<br>
-> > > `<filename.mcfunction>`:page_facing_up: <br>
+> `(your pack name)`📂<br>
+> > `(functions)`:📂, [`<manifest.json>`📄](https://wiki.bedrock.dev/guide/manifest-function-extension.html#manifests) , `<pack_icon.png>`📄<br>
+> > > `<filename.mcfunction>`📄<br>
 
 Here are [some open-source examples](https://github.com/VideoCarp/carpcorps/tree/master/function_packs) of raw commands.
